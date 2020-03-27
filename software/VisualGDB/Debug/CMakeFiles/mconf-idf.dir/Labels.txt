@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/CMakeFiles/mconf-idf
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/CMakeFiles/mconf-idf.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/CMakeFiles/mconf-idf-complete.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule

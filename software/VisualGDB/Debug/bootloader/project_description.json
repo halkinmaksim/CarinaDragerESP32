@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/SysGCC/esp32/esp-idf/v3.2/components/bootloader/subproject",
+    "build_dir":          "D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/VisualGDB/Debug/bootloader",
+    "config_file":        "D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/sdkconfig",
+    "config_defaults":    "D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/sdkconfig.defaults",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v3.3-dev-206-g7b1777dd3",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : " D:/SysGCC/esp32/esp-idf/v3.2/components/spi_flash/Kconfig D:/SysGCC/esp32/esp-idf/v3.2/components/esp32/Kconfig D:/SysGCC/esp32/esp-idf/v3.2/components/log/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : " D:/SysGCC/esp32/esp-idf/v3.2/components/bootloader/Kconfig.projbuild D:/SysGCC/esp32/esp-idf/v3.2/components/esptool_py/Kconfig.projbuild D:/SysGCC/esp32/esp-idf/v3.2/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "soc", "bootloader", "spi_flash", "micro-ecc", "bootloader_support", "esptool_py", "partition_table", "esp32", "log", "main" ],
+    "build_component_paths" : [ "D:/SysGCC/esp32/esp-idf/v3.2/components/soc", "D:/SysGCC/esp32/esp-idf/v3.2/components/bootloader", "D:/SysGCC/esp32/esp-idf/v3.2/components/spi_flash", "D:/SysGCC/esp32/esp-idf/v3.2/components/micro-ecc", "D:/SysGCC/esp32/esp-idf/v3.2/components/bootloader_support", "D:/SysGCC/esp32/esp-idf/v3.2/components/esptool_py", "D:/SysGCC/esp32/esp-idf/v3.2/components/partition_table", "D:/SysGCC/esp32/esp-idf/v3.2/components/esp32", "D:/SysGCC/esp32/esp-idf/v3.2/components/log", "D:/SysGCC/esp32/esp-idf/v3.2/components/bootloader/subproject/main" ]
+}

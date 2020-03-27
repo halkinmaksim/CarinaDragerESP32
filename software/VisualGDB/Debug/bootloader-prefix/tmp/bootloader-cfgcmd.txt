@@ -1,0 +1,1 @@
+cmd='C:/Users/galkin.m/AppData/Local/VisualGDB/CMake/bin/cmake.exe;-DSDKCONFIG=D:/work/esp32/esp32VisualGDPcpp/esp32VisualGDPcpp/sdkconfig;-DIDF_PATH=D:/SysGCC/esp32/esp-idf/v3.2;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
